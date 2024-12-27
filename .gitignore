@@ -1,0 +1,4 @@
+.DS_Store
+.env
+filebeat_ingest_data
+logstash_ingest_data
