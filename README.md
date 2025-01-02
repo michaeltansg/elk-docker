@@ -12,7 +12,7 @@ This repository contains a Docker-based ELK (Elasticsearch, Logstash, Kibana) st
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:michaeltansg/elk-docker.git
+   git clone https://github.com/michaeltansg/elk-docker.git
    cd elk-docker
    ```
 
